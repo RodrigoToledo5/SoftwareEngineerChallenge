@@ -1,4 +1,4 @@
-# SoftwareEngineerChallenge
+# Software Engineer Challenge
 
 ## csvmailing
 
