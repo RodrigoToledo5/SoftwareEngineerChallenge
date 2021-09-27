@@ -2,7 +2,7 @@
 
 ## csvmailing
 
-csvmailing is a Python implementation for reading files csv with name account.csv and send this information by email.
+csvmailing is a Python implementation for read files csv with name account.csv and send this information by email.
 
 ## Installation by Docker
 Install Docker:
